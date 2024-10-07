@@ -18,8 +18,8 @@ This project implements two types of web crawlers: Breadth-First Search (BFS) an
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/Garav1/Minor.git>
+   cd <https://github.com/Garav1/Minor.git>
    ```
 
 2. **Open the Project in IntelliJ**
@@ -30,7 +30,7 @@ This project implements two types of web crawlers: Breadth-First Search (BFS) an
    - Open the `build.gradle` file and add the following dependency:
      ```groovy
      dependencies {
-         implementation 'org.jsoup:jsoup:1.16.1'
+         implementation 'org.jsoup:jsoup:1.18.1'
      }
      ```
    - Sync the Gradle project to download the Jsoup library.
