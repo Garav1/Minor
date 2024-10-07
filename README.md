@@ -1,7 +1,3 @@
-Here’s a README template for your project that explains the setup, usage, and functionality of your BFS and DFS web crawlers.
-
----
-
 # Web Crawler Project
 
 ## Overview
