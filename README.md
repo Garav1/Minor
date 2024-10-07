@@ -82,7 +82,4 @@ Execution Time: 200 ms
 - If you encounter issues related to Jsoup or connection errors, verify your internet connection and ensure the URLs are valid.
 - Check for typos in the URL input.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
